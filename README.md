@@ -5,20 +5,17 @@
 ## Informações Gerais
 
 Nome: Anielle Carla de Oliveira.
-<<<<<<< HEAD
 Matricula: 1491162
 
 ## Tela de inspeção com navegador
 
-<img src="print g.png">
+<img src="images/print_g.png">
 
 ## Tela de projeto no Replit
 
 
-<img src="print htm.png">
+<img src="imagens/print htm.png">
 
-=======
-Matricula: 1491162.
 
 ## Tela de inspeção com navegador
 
@@ -27,7 +24,6 @@ Matricula: 1491162.
 ## Tela de projeto no Replit
 
 <img src="Print replit.png">
->>>>>>> dfe9382 (minhas alterações locais)
 
 ## Orientações sobre Linguagem MarkDown
 
