@@ -9,11 +9,11 @@ Matricula: 1491162
 
 ## Tela de inspeção com navegador
 
-<img src="images/print_g.png">
+![Tela de inspeção](imagens/printg.png)
 
 ## Tela de projeto no Replit
 
-<img src="imagens/print htm.png">
+![Tela de projeto](imagens/printhtml.png)
 
 ## Orientações sobre Linguagem MarkDown
 
