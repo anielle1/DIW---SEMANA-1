@@ -1,8 +1,5 @@
 # DIW---SEMANA-1
-=======
-=======
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=20066049)
->>>>>>> 620bb44 (add online IDE url)
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
@@ -16,7 +13,9 @@ Matricula:
 
 ## Tela de projeto no Replit
 
+
 <img src="print htm.png">
+
 
 ## Orientações sobre Linguagem MarkDown
 
@@ -25,4 +24,4 @@ Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto 
 Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
 
 ![Brasão PUC Minas](images/brasao_puc.png)
->>>>>>> fa2a8dc (Initial commit)
+
