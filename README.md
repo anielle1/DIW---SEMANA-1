@@ -13,17 +13,7 @@ Matricula: 1491162
 
 ## Tela de projeto no Replit
 
-
 <img src="imagens/print htm.png">
-
-
-## Tela de inspeção com navegador
-
-<img src="Print site.png">
-
-## Tela de projeto no Replit
-
-<img src="Print replit.png">
 
 ## Orientações sobre Linguagem MarkDown
 
